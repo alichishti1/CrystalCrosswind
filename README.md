@@ -1,0 +1,3 @@
+This is an almost complete solution to the first problem in the 45th International Collegiate Programming Contest. 
+The name of the problem is Crystal Crosswind and I copied a blurb from the question below: 
+"You are part of a scientific team developing a new technique to image crystal structures at the molecular level. The technique involves blowing a very fine wind over the surface of the crystal at various angles to detect boundaries (indicated by molecules that are exposed to the wind). This is repeated with different wind directions and the boundaries observed for each direction are recorded. Your team has already collected the data, but – as is often the case with applied science – now the real work, analysis, must begin."
