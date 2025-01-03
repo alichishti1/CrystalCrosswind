@@ -1,5 +1,4 @@
 import java.util.*;
-// Ali Chishti, Anthony Bowen, Kevin DeWeese, Cannon Ragan
 public class CrystalStructure {
     public static void main(String[] args) {
 
